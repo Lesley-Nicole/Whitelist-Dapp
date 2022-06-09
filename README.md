@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="list.svg" alt="logo" width="15%"> Whitelist Dapp</h1>
 
-A Dapp that lets the first 10 people join for free, deployed on the Rinkeby network. This project is part of the Sophomore Track at learnweb3.io.
+<p align="center">A Dapp that lets the first 10 people join for free, deployed on the Rinkeby network. This project is part of the Sophomore Track at learnweb3.io.</p>
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
