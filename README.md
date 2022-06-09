@@ -1,19 +1,20 @@
 <style>
   .heading1 {
-  color: purple;
-  font-weight: 700;
-  font-size: 35px;
-  text-align: center;
+    color: purple;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
   }
+  
   .heading2 {
-  color: purple;
-  font-weight: 700;
-  font-size: 30px;
+    color: purple;
+    font-weight: 700;
+    font-size: 30px;
   }
   </style>
   
-  <h1 id="identifier" class="heading1">
-  Whitelist Dapp
+  <h1 class="heading1">
+    Whitelist Dapp
   </h1>
   
   <hr />
@@ -22,9 +23,9 @@ Dapp that lets the first 10 people join for free. This project is part of the So
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-<h2 id="identifier" class="heading2">
-Screenshot
-  </h2>
+<h2 class="heading2">
+  Screenshot
+</h2>
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
