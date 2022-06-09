@@ -209,7 +209,7 @@ const renderButton = () => {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./cryptodevs.png" />
+          <img className={styles.image} src="./cryptodevs.svg" />
         </div>
       </div>
 
