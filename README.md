@@ -12,7 +12,9 @@
   }
   </style>
   
-  # ![Logo]() Whitelist Dapp {#identifier .heading1}
+  <h1 id="identifier" class="heading1">
+  Whitelist Dapp
+  </h1>
   
   <hr />
   
@@ -20,7 +22,9 @@ Dapp that lets the first 10 people join for free. This project is part of the So
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-## Screenshot {#identifier .heading2}
+<h2 id="identifier" class="heading2">
+Screenshot
+  </h2>
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
