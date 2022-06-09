@@ -17,7 +17,7 @@
   
   .image {
     width: 70%;
-    height: 50%;
+    height: 80%;
     margin-left: 20%;
   }
   
@@ -34,7 +34,7 @@
   
   .button {
     border-radius: 4px;
-    background-color: rgb(76, 0, 255);
+    background-color: purple;
     border: none;
     color: #ffffff;
     font-size: 15px;
