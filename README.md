@@ -1,5 +1,7 @@
     
-  <h1 style="color:purple">
+    ![Logo](list.svg)
+    
+  <h1>
     Whitelist Dapp
   </h1>
   
