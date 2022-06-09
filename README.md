@@ -1,29 +1,13 @@
-<style>
-  .heading1 {
-    color: purple;
-    font-weight: 700;
-    font-size: 35px;
-    text-align: center;
-  }
-  
-  .heading2 {
-    color: purple;
-    font-weight: 700;
-    font-size: 30px;
-  }
-  </style>
-  
-  <h1 class="heading1">
+    
+  <h1 style="color:purple">
     Whitelist Dapp
   </h1>
-  
-  <hr />
   
 Dapp that lets the first 10 people join for free. This project is part of the Sophomore Track at learnweb3.io.
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-<h2 class="heading2">
+<h2 style="color:aqua">
   Screenshot
 </h2>
 
