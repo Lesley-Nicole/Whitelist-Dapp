@@ -7,7 +7,7 @@
 
 ***
 
-![App Screenshot](/my-app/public/cryptodevs.svg)
+![App Screenshot](/my-app/public/screenshot.jpg)
 
 ***
 
