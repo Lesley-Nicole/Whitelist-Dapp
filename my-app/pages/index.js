@@ -198,6 +198,7 @@ const renderButton = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
+    <img src="https://patternico.com/?ref=tiny-helpers#XyBjqgcv4LZqPddQ" width="100%" height="100%">
         <div>
           <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
           <div className={styles.description}>
