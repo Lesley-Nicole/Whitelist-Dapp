@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     font-family: "Courier New", Courier, monospace;
-    background-image: linear-gradient(purple, gray);
+    background-image: linear-gradient(navy blue, aquamarine, gray);
   }
   
   .footer {
@@ -35,7 +35,7 @@
   
   .button {
     border-radius: 4px;
-    background-color: purple;
+    background-color: black;
     border: none;
     color: #ffffff;
     font-size: 15px;
