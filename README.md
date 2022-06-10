@@ -7,7 +7,7 @@
 
 ***
 
-![App Screenshot](/my-app/public/screenshot.jpg)
+![App Screenshot](screenshot.jpg)
 
 ***
 
